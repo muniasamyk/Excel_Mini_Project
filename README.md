@@ -3,7 +3,7 @@
 The Sales Store wants to create an annual sales report for all year. So that, the owner of the sales store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/muniasamyk/Excel_Mini_Project/blob/main/Excel_Mini_Project.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the category vs Quantity?
